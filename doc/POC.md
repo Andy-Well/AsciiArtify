@@ -10,5 +10,5 @@
 `kubectl port-forward svc/argocd-server -n argocd 8080:443`
 
 ---
-### Дtмо ArgoСВ
+### Демо ArgoСВ
 ![Демо ArgoCD](https://github.com/Andy-Well/AsciiArtify/blob/07bd3445a3150e865ff7c98a1115b2b96862cf5c/doc/ArgoCD_install.GIF)
